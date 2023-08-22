@@ -1,2 +1,2 @@
-# Cloner
-.exe / By Discord / ID / Token
+Install gofile / 
+Photo 
